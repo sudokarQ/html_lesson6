@@ -81,7 +81,7 @@ a, a:hover{
 }
 
 .top-menu-right ul li{
-  background: url(/../images/line.png) 0px 0px no-repeat;
+  background: url(line.png) 0px 0px no-repeat;
   float: left;
   height: 57px;
 }
@@ -122,21 +122,21 @@ a, a:hover{
 }
 
 .share-new .icon-twitter{
-  background: url(../images/twitter-variation.png) 0 center no-repeat;
+  background: url(twitter-variation.png) 0 center no-repeat;
   padding: 4px 0px 0px 5px;
   font-size: 17px;
   margin-right: 3px;
 }
 
 .share-new .icon-rss{
-  background: url(../images/rss-variation.png) 0 center no-repeat;
+  background: url(rss-variation.png) 0 center no-repeat;
   padding: 4px 0px 0px 5px;
   font-size: 17px;
   margin-right: 0px;
 }
 
 .share-new .icon-mail{
-  background: url(../images/email-variation.png) 0 center no-repeat;
+  background: url(email-variation.png) 0 center no-repeat;
   padding: 4px 0px 0px 5px;
   font-size: 17px;
   margin-right: 0px;
@@ -156,7 +156,7 @@ a, a:hover{
   position: absolute;
   left: 0px;
   bottom: 0px;
-  background: url(../images/bgmenu.png) 0px 0px repeat-x;
+  background: url(bgmenu.png) 0px 0px repeat-x;
 }
 
 #dropdown_nav{
@@ -178,7 +178,7 @@ a, a:hover{
   font-size: 18px;
   color: #fff;
   padding: 15px 22px 20px 22px;
-  background: url(../images/linemenu.png) right no-repeat;
+  background: url(linemenu.png) right no-repeat;
   background-position: 99.5%;
   -moz-transition: background-color 0.3s 0.01s ease;
   -o-transition: background-color 0.3s 0.01s ease;
@@ -256,7 +256,7 @@ a, a:hover{
   width: 116px;
   height: 29px;
   margin-bottom: 50px;
-  background: url(../images/raz.png) 0px 0px no-repeat;
+  background: url(raz.png) 0px 0px no-repeat;
 }
 
 .post-box{
@@ -360,7 +360,7 @@ a, a:hover{
   top: 60px;
   width: 17px;
   height: 17px;
-  background: url(../images/search.png);
+  background: url(search.png);
   border: none;
 }
 
@@ -377,7 +377,7 @@ a, a:hover{
 
 .right-box h2{
   width: 335px;
-  background: #f7f7f7 url(../images/h2img.png) 320px 14px no-repeat;
+  background: #f7f7f7 url(h2img.png) 320px 14px no-repeat;
   font-size:18px;
   font-family: "Segoe UI Semibold", Tahoma, Helvetica, Sans-Serif;
   color: #333;
