@@ -156,7 +156,7 @@ a, a:hover{
   position: absolute;
   left: 0px;
   bottom: 0px;
-  background: url(bgmenu.png) 0px 0px repeat-x;
+  background: url(/bgmenu.png) 0px 0px repeat-x;
 }
 
 #dropdown_nav{
