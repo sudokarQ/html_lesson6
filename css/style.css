@@ -81,7 +81,7 @@ a, a:hover{
 }
 
 .top-menu-right ul li{
-  background: url(line.png) 0px 0px no-repeat;
+  background: url(/line.png) 0px 0px no-repeat;
   float: left;
   height: 57px;
 }
@@ -122,21 +122,21 @@ a, a:hover{
 }
 
 .share-new .icon-twitter{
-  background: url(twitter-variation.png) 0 center no-repeat;
+  background: url(/twitter-variation.png) 0 center no-repeat;
   padding: 4px 0px 0px 5px;
   font-size: 17px;
   margin-right: 3px;
 }
 
 .share-new .icon-rss{
-  background: url(rss-variation.png) 0 center no-repeat;
+  background: url(/rss-variation.png) 0 center no-repeat;
   padding: 4px 0px 0px 5px;
   font-size: 17px;
   margin-right: 0px;
 }
 
 .share-new .icon-mail{
-  background: url(email-variation.png) 0 center no-repeat;
+  background: url(/email-variation.png) 0 center no-repeat;
   padding: 4px 0px 0px 5px;
   font-size: 17px;
   margin-right: 0px;
@@ -178,7 +178,7 @@ a, a:hover{
   font-size: 18px;
   color: #fff;
   padding: 15px 22px 20px 22px;
-  background: url(linemenu.png) right no-repeat;
+  background: url(/linemenu.png) right no-repeat;
   background-position: 99.5%;
   -moz-transition: background-color 0.3s 0.01s ease;
   -o-transition: background-color 0.3s 0.01s ease;
@@ -256,7 +256,7 @@ a, a:hover{
   width: 116px;
   height: 29px;
   margin-bottom: 50px;
-  background: url(raz.png) 0px 0px no-repeat;
+  background: url(/raz.png) 0px 0px no-repeat;
 }
 
 .post-box{
@@ -360,7 +360,7 @@ a, a:hover{
   top: 60px;
   width: 17px;
   height: 17px;
-  background: url(search.png);
+  background: url(/search.png);
   border: none;
 }
 
@@ -377,7 +377,7 @@ a, a:hover{
 
 .right-box h2{
   width: 335px;
-  background: #f7f7f7 url(h2img.png) 320px 14px no-repeat;
+  background: #f7f7f7 url(/h2img.png) 320px 14px no-repeat;
   font-size:18px;
   font-family: "Segoe UI Semibold", Tahoma, Helvetica, Sans-Serif;
   color: #333;
